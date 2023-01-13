@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/JoelSven/trainee-release-with-git/compare/v1.1.1...v1.2.0) (2023-01-13)
+
+
+### Features
+
+* print current time ([9893b12](https://github.com/JoelSven/trainee-release-with-git/commit/9893b12887e25ec8d5f54dbb8ea60b420a9bd001))
+
 ## [1.1.1](https://github.com/JoelSven/trainee-release-with-git/compare/v1.1.0...v1.1.1) (2023-01-13)
 
 
