@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/JoelSven/trainee-release-with-git/compare/v1.0.0...v1.1.0) (2023-01-13)
+
+
+### Features
+
+* limeify message ([d40269e](https://github.com/JoelSven/trainee-release-with-git/commit/d40269e08c6cbdb7805c84dbc6077e58ee6ddfdb))
+
 ## 1.0.0 (2023-01-12)
 
 
